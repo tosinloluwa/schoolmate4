@@ -53,7 +53,7 @@ import { CoreSharedModule } from '@/core/shared.module';
 @Component({
     selector: 'page-core-login-credentials',
     templateUrl: 'credentials.html',
-    styleUrl: '../../login.scss',
+    styleUrl: 'credentials.scss',
     imports: [
         CoreSharedModule,
         CoreSiteLogoComponent,
