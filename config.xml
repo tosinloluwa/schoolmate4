@@ -510,4 +510,6 @@
             </array>
         </config-file>
     </platform>
+    <preference name="android-targetSdkVersion" value="34" />
+<preference name="android-compileSdkVersion" value="34" />
 </widget>
