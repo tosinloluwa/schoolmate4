@@ -175,7 +175,7 @@
         "vinyl": "^3.0.1"
     },
     "engines": {
-        "node": ">=v24.16 <25"
+        "node": ">=22.21.0 <25"
     },
     "cordova": {
         "platforms": [
